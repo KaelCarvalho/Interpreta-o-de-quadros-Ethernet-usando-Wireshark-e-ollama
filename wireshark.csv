@@ -1,0 +1,3 @@
+frame,size_bytes,eth_src,eth_dst,protocol,ip_src,ip_dst,info
+4190,42,18:0d:2c:a9:95:dc,ff:ff:ff:ff:ff:ff,ARP,10.0.0.1,10.0.0.3,Who has 10.0.0.3? Tell 10.0.0.1
+4183,74,e8:65:38:04:ae:29,18:0d:2c:a9:95:dc,ICMP,10.0.0.3,8.8.8.8,Echo (ping) request
